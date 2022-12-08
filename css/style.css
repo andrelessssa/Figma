@@ -1,18 +1,19 @@
-body{
-    width: 1920px;
-    height: 3417px;
-    top: -204px;
-    left: -215px;
-    position: relative;
-    background: #FFFFFF;
-    border: 2px solid black;;
 
-}
-header{
-    position: absolute;
-    width: 1366px;
+.topo{
+
     height: 90px;
     left: 277px;
     top: 37px;
-    border: 2px solid black;;
+    border: 2px solid black;
+}
+.form{
+    display: flex;
+    height: 400px;
+    left: 133px;
+    top: 15px;
+    border: 2px solid black;
+
+}
+.formulario{
+
 }
